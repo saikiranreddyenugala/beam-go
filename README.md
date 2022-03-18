@@ -1,7 +1,7 @@
 # beam-go
 ### Steps to execute
 
-- Set up your environment , The Beam SDK for Go requires go version 1.16 or newer , download and install Go .
+- Set up your environment , The Beam SDK for Go requires go version 1.16 or newer , download and install Go using https://go.dev/
 - Check that you have version 1.16 by running: $ go version
 
 ### Get the SDK and the examples
